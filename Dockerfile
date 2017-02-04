@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Chris Rose <offline@offby1.net>
+MAINTAINER German Eichberger 
 
 # ensure the base image has what we need
 RUN apt-get update && \
